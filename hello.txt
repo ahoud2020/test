@@ -4,14 +4,11 @@ is it real
 <<<<<<< HEAD
 ha ha ha
 let's test it
-we need to merge this to master 
+we need to merge this to master
 =======
-<<<<<<< HEAD
 ha ha ha
 =======
 what
 i like it more easy
 is it work now
 what what what
->>>>>>> fbd3c24af9474208f682aa5c06f2c2a2e78917b9
->>>>>>> master
