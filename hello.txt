@@ -1,4 +1,11 @@
 micro bit 
 belowC
 is it real
+<<<<<<< HEAD
 ha ha ha
+=======
+what
+i like it more easy
+is it work now
+what what what
+>>>>>>> fbd3c24af9474208f682aa5c06f2c2a2e78917b9
